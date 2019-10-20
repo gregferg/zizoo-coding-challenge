@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import BoatsContainer from './components/BoatsContainer/BoatsContainer';
+const Boats = require('./boats.json');
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<BoatsContainer boats={Boats}/>, document.getElementById('root'));

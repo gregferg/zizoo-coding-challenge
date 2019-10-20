@@ -1,0 +1,32 @@
+[{
+    "imgSrc": "https://d1pkcile4c5gsr.cloudfront.net/boat/0002/96/thumb_195212_boat_expose_600x450.jpeg",
+    "title": "Jeannau Sun Odssey 45.2",
+    "isRecommmended": true,
+    "year": 2001,
+    "location": "Split, Croatia",
+    "numOfCabins": 4,
+    "lengthInMeters": 12.04,
+    "numOfGuests": 10,
+    "reviews": {
+        "stars": 5,
+        "numOfReviews": 3
+    },
+    "metadata": [
+        "Sicherungsshein",
+        "Luxury"
+    ],
+    "sailType": "Rolling Mainsail",
+    "freeExtras": [
+        "AirCon", 
+        "Wifi", 
+        "Very Long Description"
+    ],
+    "bookingRate": {
+        "cost": 1083.00,
+        "timePeriod": "weekly"
+    },
+    "isDirectBookingAvailable": true,
+    "favorites": 10,
+    "isPopular": true,
+    "numViewsPast24Hours": 69
+}]
