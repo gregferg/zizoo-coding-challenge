@@ -8,7 +8,7 @@
     "lengthInMeters": 12.04,
     "numOfGuests": 10,
     "reviews": {
-        "stars": 5,
+        "numStars": 5,
         "numOfReviews": 3
     },
     "metadata": [

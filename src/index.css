@@ -11,6 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+p {
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
+}
 
 .generic {
   background-color: grey;
@@ -20,7 +24,7 @@ code {
   justify-content: center;
 }
 
-.generic.title {
+.page-title {
   height: 200px;
 }
 
@@ -32,6 +36,7 @@ code {
 
 #root {
   display: inline-block;
+  width: 700px;
   vertical-align: top;
   margin-top: 16px;
 }

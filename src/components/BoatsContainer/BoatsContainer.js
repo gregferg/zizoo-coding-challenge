@@ -3,7 +3,6 @@ import Boat from './Boat'
 import './BoatsContainer.css';
 
 function BoatsContainer(props) {
-  console.log(props)
   const boats = props.boats.map(boat => {
     return Boat(boat);
   });
